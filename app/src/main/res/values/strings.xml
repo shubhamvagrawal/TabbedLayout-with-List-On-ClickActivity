@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TabList</string>
+
+    <string name="navigation_view_item_1">ListItem 1</string>
+    <string name="navigation_view_item_2">ListItem 2</string>
+    <string name="navigation_view_item_3">ListItem 3</string>
+
+    <string-array name="list_name">
+        <item>List Item 1</item>
+        <item>List Item 2</item>
+        <item>List Item 3</item>
+        <item>List Item 4</item>
+        <item>List Item 5</item>
+        <item>List Item 6</item>
+        <item>List Item 7</item>
+        <item>List Item 8</item>
+        <item>List Item 9</item>
+        <item>List Item 10</item>
+    </string-array>
+
+
+</resources>
